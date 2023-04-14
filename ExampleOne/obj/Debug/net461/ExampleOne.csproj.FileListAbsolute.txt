@@ -1,0 +1,10 @@
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\bin\Debug\net461\ExampleOne.exe.config
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\bin\Debug\net461\ExampleOne.exe
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\bin\Debug\net461\ExampleOne.pdb
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\obj\Debug\net461\ExampleOne.csproj.AssemblyReference.cache
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\obj\Debug\net461\ExampleOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\obj\Debug\net461\ExampleOne.AssemblyInfoInputs.cache
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\obj\Debug\net461\ExampleOne.AssemblyInfo.cs
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\obj\Debug\net461\ExampleOne.csproj.CoreCompileInputs.cache
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\obj\Debug\net461\ExampleOne.exe
+E:\NASTYA2\FindWork\ExampleOne\ExampleOne\obj\Debug\net461\ExampleOne.pdb
